@@ -22,16 +22,16 @@ Soy un desarrollador de software apasionado por la tecnología y la innovación.
 ---
 
 ## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BYRONUSERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BYRONUSERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byrone593&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byrone593&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portafolio-web?logo=vercel&logoColor=white&color=green)](https://TU-PORTAFOLIO.com)
-[![Correo](https://img.shields.io/badge/Email-contacto-blue?logo=gmail)](mailto:TU-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/byron.escobar)
+[![Correo](https://img.shields.io/badge/Email-contacto-blue?logo=gmail)](mailto:byron.escobar593@gmail.com)
 
 ---
 
 ✍️ _Gracias por visitar mi perfil, ¡siéntete libre de explorar mis proyectos y colaborar!_
+
