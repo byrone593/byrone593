@@ -33,5 +33,6 @@ Soy un desarrollador de software apasionado por la tecnología y la innovación.
 
 ---
 
-✍️ _Gracias por visitar mi perfil, ¡siéntete libre de explorar mis proyectos y colaborar!_
+✍️ _Gracias por visitar mi perfil, ¡cuenta conmigo para colaborar en algun proyecto innovador!_
+
 
